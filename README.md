@@ -64,7 +64,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vivektandle/vivektandle/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Connect with me</h2>
 
 ###
 
