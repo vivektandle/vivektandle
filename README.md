@@ -64,42 +64,6 @@ Power BI • SQL • Oracle SQL • Pandas • NumPy • Data Visualization
 
 ---
 
-## 📌 Featured Projects
-
-### 🧠 CalmAI
-AI-powered mental wellness platform featuring emotion detection and personalized therapy recommendations.
-
-**Tech Stack:** HTML, CSS, JavaScript, Python, AI/ML
-
----
-
-### 🫁 Lung Cancer Disease Prediction
-Deep learning-based medical image classification system using EfficientNetB3, ResNet50, and InceptionV3.
-
-**Tech Stack:** Python, TensorFlow, CNN
-
----
-
-### 👩‍💻 Women's Safety App
-Android application with SOS alerts, shake detection, and real-time location sharing.
-
-**Tech Stack:** Android Studio, Firebase, Java
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced React Patterns
@@ -125,12 +89,8 @@ Android application with SOS alerts, shake detection, and real-time location sha
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/vivek-tandle/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
 
