@@ -76,7 +76,7 @@ I enjoy transforming ideas into fast, accessible, and production-ready applicati
   <img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Visualization" />
 </p>
 
-
+---
 
 ## 🌱 Currently Learning
 
