@@ -56,12 +56,27 @@ I enjoy transforming ideas into fast, accessible, and production-ready applicati
 </p>
 
 ### Data & Analytics
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<h3 align="left">📊 Data & Analytics</h3>
+
+<p align="left">
+  <!-- Power BI -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
+  <!-- Oracle SQL -->
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" />
+
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+
+  <!-- Data Visualization -->
+  <img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Visualization" />
 </p>
-
-Power BI • SQL • Oracle SQL • Pandas • NumPy • Data Visualization
-
 ---
 
 ## 🌱 Currently Learning
