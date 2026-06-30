@@ -56,8 +56,6 @@ I enjoy transforming ideas into fast, accessible, and production-ready applicati
 </p>
 
 ### Data & Analytics
-<h3 align="left">📊 Data & Analytics</h3>
-
 <p align="left">
   <!-- Power BI -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
