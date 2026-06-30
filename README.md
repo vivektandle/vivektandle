@@ -107,10 +107,3 @@ I enjoy transforming ideas into fast, accessible, and production-ready applicati
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
-
----
-
-<p align="center">
-💻 Building scalable web experiences one component at a time.
-</p>
-```
